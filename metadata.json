@@ -1,0 +1,6 @@
+{
+  "name": "StockBattle",
+  "description": "An AI-native prop trading evaluation platform. Track metrics, trade virtual capital, and earn performance-based rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
